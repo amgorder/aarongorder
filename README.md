@@ -6,7 +6,4 @@ Hey there!
   After Code Works it is my goal to eventually work in an area of the tech industry where I can help impact change. I have ideas around tech that can help track drinking water quality in remote areas to help improve people’s quality of life as well as an interest in mapping apps and GPS safety devices to keep adventures like myself safe in the back country.
 
 
----
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amgorder&langs_count=10&layout=compact&title_color=c9d1d9&bg_color=0d1117&text_color=c9d1d9&hide_border=true)
